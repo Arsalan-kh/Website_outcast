@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Arsalan-kh/Website_outcast.git/static/css/main.dff8a0a5.chunk.css",
+    "main.js": "/Arsalan-kh/Website_outcast.git/static/js/main.5be52135.chunk.js",
+    "main.js.map": "/Arsalan-kh/Website_outcast.git/static/js/main.5be52135.chunk.js.map",
+    "runtime-main.js": "/Arsalan-kh/Website_outcast.git/static/js/runtime-main.34686af5.js",
+    "runtime-main.js.map": "/Arsalan-kh/Website_outcast.git/static/js/runtime-main.34686af5.js.map",
+    "static/js/2.7af55203.chunk.js": "/Arsalan-kh/Website_outcast.git/static/js/2.7af55203.chunk.js",
+    "static/js/2.7af55203.chunk.js.map": "/Arsalan-kh/Website_outcast.git/static/js/2.7af55203.chunk.js.map",
+    "static/js/3.1a08a447.chunk.js": "/Arsalan-kh/Website_outcast.git/static/js/3.1a08a447.chunk.js",
+    "static/js/3.1a08a447.chunk.js.map": "/Arsalan-kh/Website_outcast.git/static/js/3.1a08a447.chunk.js.map",
+    "index.html": "/Arsalan-kh/Website_outcast.git/index.html",
+    "static/css/main.dff8a0a5.chunk.css.map": "/Arsalan-kh/Website_outcast.git/static/css/main.dff8a0a5.chunk.css.map",
+    "static/js/2.7af55203.chunk.js.LICENSE.txt": "/Arsalan-kh/Website_outcast.git/static/js/2.7af55203.chunk.js.LICENSE.txt",
+    "static/media/4 foot house.303ba761.jpg": "/Arsalan-kh/Website_outcast.git/static/media/4 foot house.303ba761.jpg",
+    "static/media/Logo1.acabe63a.png": "/Arsalan-kh/Website_outcast.git/static/media/Logo1.acabe63a.png",
+    "static/media/google-btn.6a0669cc.png": "/Arsalan-kh/Website_outcast.git/static/media/google-btn.6a0669cc.png",
+    "static/media/App.css": "/Arsalan-kh/Website_outcast.git/static/media/signup-img.2d46d8f8.png",
+    "static/media/small-cylinder.65ca1fbb.png": "/Arsalan-kh/Website_outcast.git/static/media/small-cylinder.65ca1fbb.png",
+    "static/media/ui-img2.ddcbb45a.png": "/Arsalan-kh/Website_outcast.git/static/media/ui-img2.ddcbb45a.png",
+    "static/media/ui-img3.69879f27.png": "/Arsalan-kh/Website_outcast.git/static/media/ui-img3.69879f27.png",
+    "static/media/user-icon.900cdc55.png": "/Arsalan-kh/Website_outcast.git/static/media/user-icon.900cdc55.png",
+    "static/media/world-map.7c8f2f36.png": "/Arsalan-kh/Website_outcast.git/static/media/world-map.7c8f2f36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34686af5.js",
+    "static/js/2.7af55203.chunk.js",
+    "static/css/main.dff8a0a5.chunk.css",
+    "static/js/main.5be52135.chunk.js"
+  ]
+}
